@@ -1,7 +1,7 @@
 {
   "name": "create-router-backend",
   "description": "file based routing template for Express backend",
-  "version": "1.1.1 ",
+  "version": "1.1.2",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

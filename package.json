@@ -1,0 +1,20 @@
+{
+  "name": "create-router-backend",
+  "description": "file based routing template for Express backend",
+  "version": "1.1.1 ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "create-backend": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.23"
+  }
+}
